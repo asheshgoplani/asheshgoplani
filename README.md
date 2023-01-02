@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashesh Goplani</h1>
 <h3 align="center">An experienced full-stack developer with a passion for solving complex problems and delivering high-quality code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asheshgoplani&label=Profile%20views&color=0e75b6&style=flat" alt="asheshgoplani" /> </p>
 
 - 🔭 I’m currently working on [ENAPSO Graph Database Admin Toolbox for Node.js](https://github.com/innotrade/enapso-graphdb-admin)
 
