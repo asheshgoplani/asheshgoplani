@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **nodeJS, react, aws, kubernetes**
 
-- 📫 How to reach me **ashesh.goplani96@gmai.com**
+- 📫 How to reach me **ashesh.goplani96@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
